@@ -1,0 +1,37 @@
+.container {
+    font-size: 1.2rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  table {
+    margin-top: 2rem;
+  }
+  
+  th,
+  td {
+    text-align: center;
+  }
+  
+  tfoot td:first-of-type {
+    font-weight: bold;
+  }
+  
+  tfoot td:last-of-type {
+    font-weight: bold;
+  }
+  
+  @media (max-width: 767px) {
+    h2 {
+      font-size: 1.5rem;
+    }
+    
+    table {
+      font-size: 0.8rem;
+    }
+  }
+  

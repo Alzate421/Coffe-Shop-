@@ -1,0 +1,32 @@
+{
+   "report": [
+      {
+         "reportName": "Sales Report",
+         "reportDate": "2023-04-14",
+         "salesData": [
+            {
+               "productName": "Latte",
+               "sales": 200,
+               "revenue": 798
+            },
+            {
+               "productName": "Cappuccino",
+               "sales": 150,
+               "revenue": 673.5
+            },
+            {
+               "productName": "Americano",
+               "sales": 100,
+               "revenue": 299
+            },
+            {
+               "productName": "Iced Coffee",
+               "sales": 50,
+               "revenue": 174.5
+            }
+         ],
+         "totalSales": 500,
+         "totalRevenue": 1945
+      }
+   ]
+}

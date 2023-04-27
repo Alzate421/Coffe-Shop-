@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Latte",
+        "description": "A smooth and creamy espresso-based drink, topped with a layer of frothed milk.",
+        "price": 3.99
+      },
+      {
+        "id": 2,
+        "name": "Cappuccino",
+        "description": "A classic Italian coffee made with espresso and equal parts steamed and frothed milk.",
+        "price": 4.49
+      },
+      {
+        "id": 3,
+        "name": "Americano",
+        "description": "A simple yet strong espresso-based drink made with hot water.",
+        "price": 2.99
+      },
+      {
+        "id": 4,
+        "name": "Iced Coffee",
+        "description": "A refreshing cold brew coffee served over ice.",
+        "price": 3.49
+      }
+    ]
+}  

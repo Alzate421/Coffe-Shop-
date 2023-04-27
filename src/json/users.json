@@ -1,0 +1,43 @@
+{
+    "users": [
+      {
+        "username": "johndoe",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "phone": "555-1234",
+        "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "12345"
+        }
+      },
+      {
+        "username": "janedoe",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "email": "janedoe@example.com",
+        "phone": "555-5678",
+        "address": {
+          "street": "456 Elm St",
+          "city": "Anycity",
+          "state": "NY",
+          "zip": "67890"
+        }
+      },
+      {
+        "username": "bobsmith",
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "email": "bobsmith@example.com",
+        "phone": "555-2468",
+        "address": {
+          "street": "789 Oak St",
+          "city": "Anystate",
+          "state": "TX",
+          "zip": "54321"
+        }
+      }
+    ]
+}  

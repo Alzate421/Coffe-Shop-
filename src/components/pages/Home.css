@@ -1,0 +1,38 @@
+.home-container {
+    background-color: #F3EFEF;
+    padding: 50px;
+  }
+  
+  .title {
+    color: #9B4E28;
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .subtitle {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .list {
+    color: #000;
+  }
+  
+  .schedule {
+    color: #9B4E28;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .location {
+    color: #9B4E28;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    color: #000;
+    margin-bottom: 20px;
+  }
+  
